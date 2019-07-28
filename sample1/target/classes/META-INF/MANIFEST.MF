@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sample for spring boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: srpatoju
+Implementation-Vendor-Id: io.sri.springbootquickstart
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/sample1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
